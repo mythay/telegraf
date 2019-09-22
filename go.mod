@@ -61,8 +61,7 @@ require (
 	github.com/hashicorp/go-rootcerts v0.0.0-20160503143440-6bb64b370b90
 	github.com/hashicorp/go-uuid v1.0.1
 	github.com/hashicorp/serf v0.8.1
-	github.com/influxdata/go-syslog v1.0.1
-	github.com/influxdata/go-syslog/v2 v2.0.0 // indirect
+	github.com/influxdata/go-syslog v1.0.2-0.20181218100917-0cd00a9f0a5e
 	github.com/influxdata/tail v0.0.0-20180327235535-c43482518d41
 	github.com/influxdata/toml v0.0.0-20190415235208-270119a8ce65
 	github.com/influxdata/wlog v0.0.0-20160411224016-7c63b0a71ef8
@@ -74,6 +73,7 @@ require (
 	github.com/karrick/godirwalk v1.7.5
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515
+	github.com/kr/pretty v0.1.0 // indirect
 	github.com/kubernetes/apimachinery v0.0.0-20190119020841-d41becfba9ee
 	github.com/leodido/ragel-machinery v0.0.0-20181214104525-299bdde78165
 	github.com/mailru/easyjson v0.0.0-20180730094502-03f2033d19d5
@@ -124,7 +124,7 @@ require (
 	github.com/yuin/gopher-lua v0.0.0-20180630135845-46796da1b0b4
 	golang.org/x/net v0.0.0-20190628185345-da137c7871d7
 	golang.org/x/oauth2 v0.0.0-20190226205417-e64efc72b421
-	golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a
+	golang.org/x/sys v0.0.0-20190830141801-acfa387b8d69
 	google.golang.org/api v0.3.1
 	google.golang.org/genproto v0.0.0-20190404172233-64821d5d2107
 	google.golang.org/grpc v1.19.0
