@@ -45,7 +45,7 @@ require (
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/gobwas/glob v0.2.3
 	github.com/gogo/protobuf v1.2.0
-	github.com/golang/protobuf v1.2.0
+	github.com/golang/protobuf v1.3.1
 	github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db
 	github.com/google/go-cmp v0.2.0
 	github.com/google/go-github v17.0.0+incompatible
@@ -83,6 +83,7 @@ require (
 	github.com/mitchellh/go-homedir v0.0.0-20180523094522-3864e76763d9
 	github.com/mitchellh/mapstructure v0.0.0-20180715050151-f15292f7a699
 	github.com/multiplay/go-ts3 v1.0.0
+	github.com/mythay/lark v0.0.0-20190922042743-3c0f8ce67e11
 	github.com/naoina/go-stringutil v0.1.0
 	github.com/nats-io/gnatsd v1.2.0
 	github.com/nats-io/go-nats v1.5.0
@@ -104,13 +105,13 @@ require (
 	github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a
 	github.com/samuel/go-zookeeper v0.0.0-20180130194729-c4fab1ac1bec
 	github.com/satori/go.uuid v1.2.0
-	github.com/shirou/gopsutil v0.0.0-20190731134726-d80c43f9c984
+	github.com/shirou/gopsutil v2.19.7+incompatible
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4
 	github.com/sirupsen/logrus v1.2.0
 	github.com/soniah/gosnmp v0.0.0-20180714230012-96b86229e9b3
 	github.com/streadway/amqp v0.0.0-20180528204448-e5adc2ada8b8
 	github.com/stretchr/objx v0.1.1
-	github.com/stretchr/testify v1.2.2
+	github.com/stretchr/testify v1.4.0
 	github.com/tidwall/gjson v1.3.0
 	github.com/tidwall/match v1.0.1
 	github.com/tidwall/pretty v1.0.0
